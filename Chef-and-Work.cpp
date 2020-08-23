@@ -28,7 +28,7 @@ int main()
         {
             s=s+v[i];
             if(s>k)
-            {
+           {
                 s=v[i];
                 c++;
             }
